@@ -1,0 +1,103 @@
+10
+Clara
+Furnace Room
+TREK943793793
+true
+500
+08/29/2110
+Aurora Cycles, Seattle
+Vintage Bike
+C:\Users\user\HomeInventory\src\bicycle.jpg
+TV
+Living Room
+5678
+true
+36699
+07/23/2018
+Karnataka, Bangalore
+Smart LED TV
+C:\Users\user\HomeInventory\src\tv.jpg
+Laptop
+Bedroom
+9012
+true
+45000
+08/13/2019
+Karnataka, Bangalore
+Acer Nitro 5 - AN512
+C:\Users\user\HomeInventory\src\laptop.jpg
+TV Remote
+Living Room
+3456
+true
+200
+07/23/2018
+Karnataka, Bangalore
+It's a TV Remote
+C:\Users\user\HomeInventory\src\remote.jpg
+Headphones
+Bedroom
+7890
+true
+2000
+01/01/2020
+Karnataka, Bangalore
+Dragonwar Wired Gaming Headphones
+C:\Users\user\HomeInventory\src\headphone.jpg
+Mouse
+Bedroom
+1234
+true
+699
+01/02/2020
+Karnataka, Bangalore
+Redgear Gaming Mouse - ELEG1
+C:\Users\user\HomeInventory\src\mouse.jpg
+Earphones
+Bedroom
+5678
+true
+1800
+04/10/2020
+Karnataka, Bangalore
+Realme Buds Air
+C:\Users\user\HomeInventory\src\earphone.jpg
+Powerbank
+Living Room
+9012
+true
+1000
+06/20/2019
+Bangalore, Karnataka
+Philips Powerbank - 10k mAH
+C:\Users \user\HomeInventory\src\powerbank.jpg
+Mobile
+Bedroom
+3456
+true
+8900
+06/20/2016
+Karnataka, Bangalore
+Honor 9N
+C:\Users \user\HomeInventory\src\mobile.jpg
+Textbook
+Bedroom
+1234
+true
+699
+08/29/2110
+Karnataka, Bangalore
+Basics of C Programming
+C:\Users \user\HomeInventory\src\cprogbook.jpg
+11
+Always Lost
+Basement Office
+Driveway
+Family Room
+Furnace Room
+My Office
+Under my desk
+Under the other desk
+Bedroom
+Living Room
+
